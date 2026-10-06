@@ -64,6 +64,9 @@ desktop.ini
 .Trashes
 
 # ---------- 4. 工具链与本地状态 ----------
+# 任务目录下的 scripts/：可复用脚本（切片、改名、格式转换）。
+# 本地资产，Step 7 保留，但不入库——仓库只收规范与档案文档（Agent.md §2.5）。
+scripts/
 .opencode/
 .mcp.json
 node_modules/
